@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{67:function(e){e.exports=JSON.parse('{"title":"\u8fd1\u671f\u6587\u7ae0","items":[{"title":"LessSafe\u5b89\u5168\u56e2\u961f\u77e5\u8bc6\u5e93\u6b63\u5f0f\u4e0a\u7ebf","permalink":"/happy"}]}')}}]);

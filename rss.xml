@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>LessSafe安全团队知识库</title>
+        <link>https://wiki.lesssafe.cn/</link>
+        <description>LessSafe安全团队知识库 Blog</description>
+        <lastBuildDate>Fri, 01 Jan 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <copyright>Copyright © 2021 峰华 (张旭乾) Built with Docusaurus.&lt;p&gt;冀ICP备14007097号-3&lt;/p&gt;</copyright>
+        <item>
+            <title><![CDATA[LessSafe安全团队知识库正式上线]]></title>
+            <link>https://wiki.lesssafe.cn/happy</link>
+            <guid>happy</guid>
+            <pubDate>Fri, 01 Jan 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[LessSafe安全团队知识库正式上线]]></description>
+        </item>
+    </channel>
+</rss>
